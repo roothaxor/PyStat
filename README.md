@@ -4,6 +4,9 @@
  * Know remote ports of process
  * Know which user using process along with title & PID
 
+#### Changelogs:
+ * Auto Install python modules support added in install.py
+
 ### Installation Guide:  
 > Download the [.zip file](https://github.com/roothaxor/PyStat/archive/master.zip)
 
