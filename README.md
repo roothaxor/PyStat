@@ -1,6 +1,10 @@
 # PyStat - Advanced Netstat For Windows
+#### Features
+ * Know remote address of process
+ * Know remote ports of process
+ * Know which user using process along with title & PID
 
-### Installation: 
+### Installation Guide:  
 > Download the [.zip file](https://github.com/roothaxor/PyStat/archive/master.zip)
 
 > Extract the pystat folder from .zip file to some drive i.e `C:\tools\pystat`
