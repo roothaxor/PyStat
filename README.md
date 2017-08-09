@@ -1,4 +1,7 @@
 # PyStat - Advanced Netstat For Windows
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://www.roothaxor.in)
+[![PyPI](https://img.shields.io/pypi/status/Django.svg)](https://github.com/roothaxor/The-Password-Manager)
+
 #### Features
  * Know remote address of process
  * Know remote ports of process
