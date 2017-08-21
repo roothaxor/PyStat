@@ -1,4 +1,5 @@
 # PyStat - Advanced Netstat For Windows
+#### Compatible with Python Version 2.7
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://www.roothaxor.in)
 [![PyPI](https://img.shields.io/pypi/status/Django.svg)](https://github.com/roothaxor/The-Password-Manager)
 
